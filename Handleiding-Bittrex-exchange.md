@@ -21,7 +21,7 @@ Bittrex is een exchange waar in diverse cryptocurrencies gehandeld kan worden. W
 Om te handelen met Gulden gaat u naar https://www.bittrex.com/Market/?MarketName=BTC­NLG
 
 U ziet dan het volgende scherm:
-![Bittrex Startpage](Images/Bittrex-Startpage.png)
+![Bittrex Startpage](https://github.com/paulwillen/Gulden-Manuals/blob/master/Images/Bittrex-Startpage.png?raw=true)
 
 Prominent aanwezig is een candlestick diagram waarin het koersverloop zichtbaar is.U kunt nog meer informatie halen uit de grafiek maar dat komt later.
 
